@@ -1,16 +1,33 @@
-### Hi there 👋
 
-<!--
-**lingyu77/lingyu77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
 
-Here are some ideas to get you started:
+Enthusiastic backend software engineer in web development and networking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Have experiences on collaboration with people from various countries.
+
+<br/>
+
+## ✏ 𝗦𝗞𝗜𝗟𝗟𝗦
+
+▪ <b>Programming Languages</b>: Java, C, Python, SQL, C++
+
+▪ <b>Database</b>: Oracle, MongoDB, Canssandra, MySQL
+
+▪ <b>Dev Tools</b>: Docker, Git, VSCode, Intellij, Jira, ELK
+
+<br/>
+
+📚 𝗜𝗡𝗧𝗘𝗥𝗘𝗦𝗧𝗦
+
+▪ <b>Drawing</b>
+
+▪ <b>Reading</b>
+
+▪ <b>Hiking</b>
+- Complete Taipei Grand Trail (92k urban hiking trail divided into seven sections)
+
+<br/>
+
+## ✉ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘
+
+• [LinkedIn](https://www.linkedin.com/in/ling-yu-chen/)
