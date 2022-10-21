@@ -24,7 +24,7 @@ Have experiences on collaboration with people from various countries.
 ▪ <b>Reading</b>
 
 ▪ <b>Hiking</b>
-- Complete Taipei Grand Trail (92k urban hiking trail divided into seven sections)
+- Complete Taipei Grand Trail (92k)
 
 <br/>
 
